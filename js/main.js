@@ -1,9 +1,11 @@
 import List from './pages/List.js';
+import List2 from './pages/List2.js';
 import Leaderboard from './pages/Leaderboard.js';
 import Login from './pages/login.js';
 
 const routes = [
     { path: '/list', component: List },        // Страница списка уровней доступна по "/list"
+    { path: '/list2', component: List2 },
     { path: '/leaderboard', component: Leaderboard },
     { path: '/login', component: Login }
 ];
