@@ -93,25 +93,6 @@ export default {
 
                 <!-- 2. СЕТКА КОНТЕНТА -->
                 <div class="gdl-content-grid">
-                    
-                    <!-- ЛЕВАЯ КОЛОНКА -->
-                    <div class="gdl-left-column">
-                        <div class="gdl-meta-box">
-                            <h3>Редакторы списка</h3>
-                            <ul class="editors-list">
-                                <li><span>👑</span> NaR1</li>
-                                <li><span>🛡️</span> ThisIsTriscis</li>
-                                <li><span>🛡️</span> itslafy</li>
-                            </ul>
-                            
-                            <div class="rules-section">
-                                <h3>Правила</h3>
-                                <ul class="rules-list">
-                                    <li><strong>1.</strong> Принимаются только рекорды из любого листа (Global list, AREDL, Pointercrate) (ВОЗМОЖНЫ ИСКЛЮЧЕНИЯ!)</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
 
                     <!-- ЦЕНТРАЛЬНАЯ КОЛОНКА -->
                     <div class="gdl-cards-container">
