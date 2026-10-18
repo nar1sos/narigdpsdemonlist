@@ -1,4 +1,5 @@
 import List from './pages/List.js';
+import List2 from './pages/List2.js';
 import Leaderboard from './pages/Leaderboard.js';
 import Roulette from './pages/Roulette.js';
 
