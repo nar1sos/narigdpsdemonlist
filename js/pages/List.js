@@ -102,13 +102,12 @@ export default {
                             <ul class="editors-list">
                                 <li><span>👑</span> NaR1</li>
                                 <li><span>🛡️</span> ThisIsTriscis</li>
-                                <li><span>🛡️</span> itslafy</li>
                             </ul>
                             
                             <div class="rules-section">
                                 <h3>Правила</h3>
                                 <ul class="rules-list">
-                                    <li><strong>1.</strong> Принимаются только рекорды из любого листа (Global list, AREDL, Pointercrate) (ВОЗМОЖНЫ ИСКЛЮЧЕНИЯ!)</li>
+                                    <li><strong>1.</strong> Не читерить, не проходить с секрет-веями, ну и пенис не сосать</li>
                                 </ul>
                             </div>
                         </div>
