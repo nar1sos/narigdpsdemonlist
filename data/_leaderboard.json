@@ -1,5 +1,10 @@
 [
     {
+        "name": "NaR1",
+        "country": "ua",
+        "avatar": "https://i.pinimg.com/736x/81/fa/b8/81fab864dfe2e4f3bea238ed19340a41.jpg"
+    },
+    {
         "user": "ThisIsTriscis",
         "name": "ThisIsTriscis",
         "country": "ru",
@@ -30,11 +35,6 @@
         "avatar": "https://i.postimg.cc/gJD1kfdn/E8646F9E-42CC-426A-9450-978B2EA4115A.png",
         "records": [],
         "verified": []
-    },
-    {
-        "name": "NaR1",
-        "country": "ua",
-        "avatar": "https://i.pinimg.com/736x/81/fa/b8/81fab864dfe2e4f3bea238ed19340a41.jpg"
     },
     {
         "user": "L1steN",
