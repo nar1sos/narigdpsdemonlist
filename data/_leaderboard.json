@@ -31,7 +31,9 @@
         "name": "NoWaY",
         "country": "us",
         "avatar": "https://i.pinimg.com/736x/4d/85/3a/4d853a76c33e84dbfbdd4f3e347ade48.jpg",
-        "records": [],
+        "records": [
+            "Calamity"
+        ],
         "verified": []
     },
     {
